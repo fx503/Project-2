@@ -1,6 +1,7 @@
 @import "bootstrap-rtl.css";
 @import "_icons-contacts.css";
 @import "_navbar.css";
+@import "_hero-header.css";
 @font-face {
     font-family: Vazir-Medium;
     src: url("../fonts/Vazir-Medium.eot") format('eot'),
