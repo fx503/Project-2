@@ -1,4 +1,5 @@
-
+@import "bootstrap-rtl.css";
+@import "_icons-contacts.css";
 @font-face {
     font-family: Vazir-Medium;
     src: url("../fonts/Vazir-Medium.eot") format('eot'),
@@ -43,5 +44,25 @@ p{
 @media (max-width: 767px) {
     .mt-csm-3{
         margin-top: 3rem !important;
+    }
+}
+@media (max-width: 576px) {
+    .d-csm-none {
+        display: none !important;
+    }
+}
+@media (max-width: 768px) {
+    .d-cmd-none {
+        display: none !important;
+    }
+}
+@media (max-width: 992px) {
+    .d-clg-none {
+        display: none !important;
+    }
+}
+@media (max-width: 1200px) {
+    .d-cxl-none {
+        display: none !important;
     }
 }

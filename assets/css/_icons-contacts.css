@@ -1,0 +1,9 @@
+.social-icons-container{
+width: 120px;
+}
+.social-icons-container a{
+    color: white;
+}
+.social-icons-container a:hover{
+    color: orange;
+}
