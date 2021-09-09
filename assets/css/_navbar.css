@@ -1,0 +1,8 @@
+.custom-navbar-nav .nav-item .nav-link:hover{
+    border-bottom: 2px solid red!important;
+}
+@media (max-width: 992px) {
+    .custom-navbar-nav .nav-item .nav-link:hover{
+        border-bottom: none!important;
+    }
+}
