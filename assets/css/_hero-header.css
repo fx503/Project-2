@@ -1,0 +1,46 @@
+.hero-customize{
+    width: 100%;
+    height: 88vh;
+}
+.hero-overlay{
+    width: 100%;
+    height: 88vh;
+    background-color: rgba(0, 0, 0, 0.35);
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.more-info-link{
+    border-radius: 3px;
+}
+.hero-overlay-title{
+    max-width: 585px;
+    position: absolute;
+    top: 30%;
+    right: 15%;
+}
+@media(max-width: 992px) {
+    .hero-overlay-title{
+        background: rgba(255, 255, 255, 0.30);
+        top: 50%;
+        right: 50%;
+        transform: translate(50%,-50%);
+        width: 420px;
+        justify-content: space-around;
+        align-items: center!important;
+    }
+    .hero-overlay-title h1{
+        font-size: 30px;
+        color: black;
+        margin-top: 20px;
+    }
+    .hero-overlay-title h3{
+        font-size: 20px;
+        color: black;
+    }
+    .hero-overlay-title a{
+        font-size: 15px;
+        align-self: center!important;
+        margin-bottom: 20px;
+    }
+}
