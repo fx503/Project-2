@@ -3,6 +3,7 @@
 @import "_navbar.css";
 @import "_hero-header.css";
 @import "_courses.css";
+@import "_aboutus.css";
 @font-face {
     font-family: Vazir-Medium;
     src: url("../fonts/Vazir-Medium.eot") format('eot'),

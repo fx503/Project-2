@@ -1,0 +1,31 @@
+.about-us-photo{
+    width: 35%;
+    height: 100%;
+}
+.about-us{
+    width: 65%;
+    background-color: #dadada;
+}
+.about-us h5{
+    border-bottom: 1px solid #bcb9b9;
+    padding-bottom: 1rem;
+}
+.about-us p{
+    font-size: 15px;
+    color: #6b6868;
+}
+.about-us a{
+    width: fit-content;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 1rem;
+    align-self: flex-end;
+}
+@media(max-width: 992px){
+    .about-us-photo{
+        display: none;
+    }
+    .about-us{
+        width: 100%;
+    }
+}
