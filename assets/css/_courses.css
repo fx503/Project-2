@@ -1,0 +1,27 @@
+.right-line{
+    width: 60px;
+    height: 3px;
+    background-color: orange;
+    margin-left: 8px;
+}
+.left-line{
+    width: 60px;
+    height: 3px;
+    background-color: orange;
+    margin-right: 8px;
+}
+.course-icon{
+    font-size: 40px;
+}
+.course-link{
+    color: purple;
+}
+.course-desc{
+    color: #818181;
+}
+.card{
+    box-shadow: 0 0 5px 5px #e4e0e0;
+}
+.card:hover{
+    cursor: pointer;
+}
