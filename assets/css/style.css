@@ -4,6 +4,7 @@
 @import "_hero-header.css";
 @import "_courses.css";
 @import "_aboutus.css";
+@import "_teachers.css";
 @font-face {
     font-family: Vazir-Medium;
     src: url("../fonts/Vazir-Medium.eot") format('eot'),
