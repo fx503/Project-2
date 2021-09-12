@@ -1,0 +1,60 @@
+.custom-card-body p{
+    color: #888888;
+    font-size: 13px;
+}
+.custom-card-body a{
+    font-size: 17px;
+}
+.color-1{
+    background-color: #777777;
+}
+.favorites-link a{
+    color: white;
+}
+.favorites-link a:hover{
+    color: gold;
+}
+.favorites-link{
+    top:2%;
+    right: 89%;
+}
+@media (max-width: 767px) {
+    .favorites-link{
+        top:2%;
+        right: 94%!important;
+    }
+}
+
+
+@media (min-width: 1200px) {
+    .date-card{
+        top: 28.6%;
+        right: 86%;
+    }
+}
+
+@media (max-width: 1200px) and (min-width: 992px){
+    .date-card{
+        top: 22.3%;
+        right: 81%;
+    }
+}
+@media (max-width: 992px) and (min-width: 768px) {
+    .date-card{
+        top: 22.3%;
+        right: 81%;
+    }
+}
+@media (max-width: 768px) and (min-width: 576px){
+    .date-card{
+        top: 55%;
+        right: 92%;
+    }
+}
+.date-month{
+    background-color: #888888;
+    border-radius: 0 0 3px 3px;
+}
+.date-day{
+    border-radius: 3px 3px 0 0;
+}
