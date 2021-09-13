@@ -8,6 +8,7 @@
 @import "_statistics.css";
 @import "_articles.css";
 @import "_faq.css";
+@import "_footer.css";
 @font-face {
     font-family: Vazir-Medium;
     src: url("../fonts/Vazir-Medium.eot") format('eot'),
@@ -51,6 +52,21 @@ p{
 }
 @media (max-width: 767px) {
     .mt-csm-3{
+        margin-top: 3rem !important;
+    }
+}
+@media (max-width: 992px) {
+    .mt-cmd-1{
+        margin-top: 1rem !important;
+    }
+}
+@media (max-width: 992px) {
+    .mt-cmd-2{
+        margin-top: 2rem !important;
+    }
+}
+@media (max-width: 992px) {
+    .mt-cmd-3{
         margin-top: 3rem !important;
     }
 }

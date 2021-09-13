@@ -1,0 +1,62 @@
+.footer-h6-title span{
+    color: #f8f800;
+    margin-left: 10px;
+    font-size: 25px;
+}
+.footer-h6-title{
+    color: white;
+}
+.slogan-p{
+    color: #c1c1c1;
+    font-size: 13px;
+}
+.list-wrapper h6{
+    border-bottom: 2px solid #868686;
+    color: #c1c1c1;
+    font-size: 13px;
+    margin-bottom: 3px;
+}
+.list-wrapper ul li a{
+    color: #c1c1c1;
+    font-size: 13px;
+    transition: .5s ease;
+}
+.list-links i{
+    font-size: 10px;
+    margin-left: 5px;
+}
+.list-wrapper ul li a:hover{
+    margin-right: 5px;
+    color: #9888e6;
+}
+.social-wrapper h6{
+    border-bottom: 2px solid #868686;
+    color: #c1c1c1;
+    font-size: 13px;
+    margin-bottom: 3px;
+}
+.social-icons-flex a{
+    color: #c1c1c1;
+    text-decoration: none;
+}
+.social-icons-flex a:hover{
+    color: #9888e6;
+}
+.contact-wrapper h6{
+    border-bottom: 2px solid #868686;
+    color: #c1c1c1;
+    font-size: 13px;
+    margin-bottom: 3px;
+}
+.contact-wrapper p{
+    color: #c1c1c1;
+    font-size: 13px;
+    margin-top: 1rem!important;
+}
+.copyright-wrapper h6{
+    border-top: 2px solid #868686;
+    color: #c1c1c1;
+    font-size: 13px;
+    margin-top: 1rem;
+    text-align: center;
+}
