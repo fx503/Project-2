@@ -12,3 +12,19 @@
     font-size: 25px;
     color: purple;
 }
+.custom-card-FAQ{
+    box-shadow: none;
+}
+.card-btn{
+    color: white;
+    outline: none!important;
+}
+.custom-card-FAQ .card-header{
+    background-color: purple;
+}
+.card-btn:focus, .card-btn.focus {
+    box-shadow: 0 0 0 0.2rem purple;
+}
+.card-btn:hover{
+    color: #afafaf;
+}
