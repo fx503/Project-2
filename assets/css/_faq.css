@@ -1,0 +1,14 @@
+.faq-background {
+    background-image: url("../img/Background/dirty-pattern-paint-room-block.jpg");
+    background-size: cover;
+    height: 800px;
+}
+.accordion-container{
+    top: 10%;
+    right: 50%;
+    transform: translate(50%, 0);
+}
+.support-icon{
+    font-size: 25px;
+    color: purple;
+}
