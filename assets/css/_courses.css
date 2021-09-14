@@ -25,3 +25,11 @@
 .card:hover{
     cursor: pointer;
 }
+.card-img-overlay-custom{
+    background-color: rgba(0, 0, 0, 0.31);
+    top: 0%;
+    right: 0%;
+}
+.card-img-wrapper:hover .card-img-overlay-custom{
+    visibility: visible!important;
+}
